@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "GameType",
+      "value" : "Indoor"
+    }, {
+      "trait_type" : "GameName",
+      "value" : "Carrom"
+    } ],
+    "description" : "New way of carrom.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmfDo4K9VsBED9Wu6wGBGrRWNuw6aAfzTgqtXkiFNxaabr",
+    "name" : "NewCarrom"
+}
